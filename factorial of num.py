@@ -4,3 +4,5 @@ while(i>0):
     fact=fact*i
     i=i-1
 print("The factorial of the number is:",fact)
+
+# 5!=5x4x3x2x1
