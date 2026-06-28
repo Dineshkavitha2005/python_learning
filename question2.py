@@ -4,3 +4,4 @@ address=input("Enter address:")
 print("My name is :",name)
 print("My age is :",age)
 print("My address is",address)
+# NAME,AGE AND ADDRESS INPUT
