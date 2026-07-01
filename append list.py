@@ -6,3 +6,4 @@ print(a)
 a.append(True)
 a.append('hai')
 print(a)
+# ADD AN VALUE IN A LIST
