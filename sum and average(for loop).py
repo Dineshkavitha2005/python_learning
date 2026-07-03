@@ -14,3 +14,4 @@ average=0
 for i in a:
     average=sum/10
 print("average:",average)
+# PRINTS SUM AND AVERAGE OF AN NUMBER
