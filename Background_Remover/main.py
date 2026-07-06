@@ -20,6 +20,4 @@ def main():
             st.image(result, caption="Result")
         except Exception as e:
             st.error(f"Background removal failed: {e}")
-        
 main()
-
