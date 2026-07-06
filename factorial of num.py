@@ -6,3 +6,4 @@ while(i>0):
 print("The factorial of the number is:",fact)
 
 # 5!=5x4x3x2x1
+# prints the factorial of number
