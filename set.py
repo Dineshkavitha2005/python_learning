@@ -1,0 +1,4 @@
+a={1,1,2,2,3,4}
+print(a)
+# DOESN'T ALLOW DUPLICATE
+# CAN'T MODIFY SET VALUE
